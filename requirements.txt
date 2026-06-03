@@ -1,0 +1,8 @@
+﻿build123d>=0.5.0
+cadquery-ocp
+numpy
+scipy
+matplotlib
+vtk
+lib3mf
+PyInstaller>=6.0
